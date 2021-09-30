@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "crypayhub-dev",
+  "private_key_id": "8d66ef53100d5533f4c8822a11a979a280b0bc5f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDH0NU3BFkCotcw\nq9BEdKffMXmOVhCpOnldhlSHVpxmBmEoDog2m1oLMNnUDX4HcUZVO4eMZKkuH/Uo\nKkk7YL5kvIBv/PKh+Knel6+JB1hNJBAqjzT2pt8114gkJJRqWbqF4pfWqJRnrEue\nG4KWxLb0BM4TGpgf7eW7mNo5kGvCJ+oyh1njOoj5pGdQQN5OpJTzrESBNzJaE0c3\n/bnOcWAs2pA5aQYl2k5EXYAfqjr/aDITjKrzMkEpcquWlaABF+nNyT2T4U+8UkOx\niQuhf58GoU2ryiohey0GAUVTbMORVQgKSr4+FLg+nXGn+7u3dCLDAlYKl2AZyqo/\nfXBRB1B/AgMBAAECggEAA6l7ChSW0W3Zlfp4IsdxvvnucxWptxt4V1n1MtVhoJva\nUpXqZV6btY7+8JxEsVWgOkMQ8DMO4YA6POYb5hSXHxjptuO1/XjyTnJaO1LHcANK\nsCgxJAB/7VuWktvNKoib2tG1An0GQNyPNp9+phogPkDX5ARXQf9ZEZyZPasJ01eV\nCa9QhWpjm4tK0EFNpJlqADmVqpYhVLdWzi3WZsZMq93bKCnpSJ3WOiszSwtMJIk+\nXAlsYy8tAMI56VrzMDwfAb0SBp0FVGN7ryHows9xQ858AR6RA1XlLUYWFpVeTkZN\n0uyE3QwPC4UM4UBrNkblvzdD6UsW0mG9sSXoyQEQAQKBgQDnZEUlLWJ+Bft9oCtG\nN5vby11Y+Xff+5MjTPJndVtYsNBhgy/1mpHNbX5q1LRt6v8sUkZKmJOAh/ZOBZcB\n5XMuRtIqXarQ+d9EA4oWGIq0gQnsbn+lSB2qRtNL4i3NUU+knMHaZhGMtCSJ1xFz\noIZOHHVPPNFdvSZrKzl7XZkQAQKBgQDdEOVMO/2iqARmk5sE1Rktb+z8KUOXanw8\nO7qnMhTjyoha6ZMa9elpwVwjq45pIddCJCHGgmZGDD2J7KF9AsohHgrMQvhK1k+a\nM4yyf7ojUApjAfWu4SSfHz+sRYTv+YNPg8xqMR7hM/XpOO1AgLUWl7bA0XB5Rxns\n6rQJ/BhgfwKBgQDFqbIngA2S+ilLt3dAFGDf8WlciD8O5ylaDnFET8woh2J66kYd\n2FyUz+Qd/nXjL8urYN0K/CuEsKCHJd9Jj2hFL9p4tmsk+U7wGtXq6iwS5ehEQGBq\nIKC2xKnbOOtHaR5P0FkI6Ag12e0ckswlqgsQzt6nQZzYJqya/+GqsNoAAQKBgCy/\niMq/sf3E6O8indSCllAeQehhKe9yfKdsp8HEX3okuyk78q0YbiEcJNyLk44wbXRU\nAApAxxcSzzomDiJR+Dxv6luiisQLUZ2zJZ3UQQd44kFcWjEGHfWfy7HBeMFiznPA\nCBbOzqNjczm8bjoKU525JCMvwgaqn9LXR45l20FdAoGAWJ+dcNixFk3uKW/YO1I0\nREwAvY4BtR0G9wj/lPPHsSchn1bI6YWrEQU1mwKPnIXwwrcrKrdLibdVBk5yJPXA\n4BIr2iEFjLfAC7Zx5MeN6oAodyrv8XKesgXlNcjCpP1AylaKPe8TitBp+bcuDmfw\nqhBnljzxacA/+n9BSJZ6hPE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "crypayhub-pubsub@crypayhub-dev.iam.gserviceaccount.com",
+  "client_id": "101062689028008699344",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/crypayhub-pubsub%40crypayhub-dev.iam.gserviceaccount.com"
+}

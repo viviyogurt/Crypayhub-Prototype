@@ -1,0 +1,27 @@
+select * from DeliverCommission;
+select * from DeliverOneTimeAward;
+select * from OwnershipTransferred;
+select * from RemoveCommissioner;
+select * from SetCommissioner;
+select * from SetMerchant;
+select * from SetProxyContractForTransfer;
+select * from SetServiceCommission;
+select * from Transfer;
+select * from TransferPaymentFee;
+select * from Tx;
+select * from SetWhitelistSender;
+select * from SetWhitelistReceiver;
+
+delete from DeliverCommission;
+delete from DeliverOneTimeAward;
+delete from OwnershipTransferred;
+delete from RemoveCommissioner;
+delete from SetCommissioner;
+delete from SetMerchant;
+delete from SetProxyContractForTransfer;
+delete from SetServiceCommission;
+delete from Transfer;
+delete from TransferPaymentFee;
+delete from Tx;
+delete from SetWhitelistSender;
+delete from SetWhitelistReceiver;
